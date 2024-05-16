@@ -1,0 +1,7 @@
+portfolio_global:
+  version: 1.x
+  css:
+    theme:
+      css/listing_view.css: {}
+  dependencies:
+    - core/jquery

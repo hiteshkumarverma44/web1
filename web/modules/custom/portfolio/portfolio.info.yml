@@ -1,0 +1,5 @@
+name: "Portfolio Form"
+type: module
+description: "Creates a custom form for portfolio submission."
+core_version_requirement: ^8 || ^9 || ^10
+package: custom
